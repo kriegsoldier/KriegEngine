@@ -34,9 +34,20 @@
 				</Linker>
 			</Target>
 		</Build>
-		<Unit filename="main.c">
-			<Option compilerVar="CC" />
-		</Unit>
+		<Unit filename="Krieg_Core.h" />
+		<Unit filename="Krieg_Exception.h" />
+		<Unit filename="Krieg_HardwareBuffer.h" />
+		<Unit filename="Krieg_Linux.h" />
+		<Unit filename="Krieg_Log.h" />
+		<Unit filename="Krieg_Math.h" />
+		<Unit filename="Krieg_Matrix3.h" />
+		<Unit filename="Krieg_Matrix4.h" />
+		<Unit filename="Krieg_PixelBuffer.h" />
+		<Unit filename="Krieg_Vector2.h" />
+		<Unit filename="Krieg_Vector3.h" />
+		<Unit filename="Krieg_VertexBuffer.h" />
+		<Unit filename="Krieg_Windows.h" />
+		<Unit filename="Krieg_platform.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
